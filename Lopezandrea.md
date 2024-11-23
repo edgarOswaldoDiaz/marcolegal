@@ -1,4 +1,4 @@
-### **Andrea graciela López Segura**
+### **Andrea Graciela López Segura**
 
 ### **Regulaciones legales para uso de datos digitales con inteligencia artificial.**
 
