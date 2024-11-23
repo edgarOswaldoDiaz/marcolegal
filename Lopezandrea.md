@@ -27,15 +27,15 @@ Sin embargo, las leyes no siempre van tan rápido como los avances tecnológicos
 
 #### **Propuestas para usar la IA de forma responsable**
 
-1. **Educación:**Es fundamental que las personas entiendan sus derechos sobre el manejo de sus datos y que quienes desarrollan IA trabajen con responsabilidad, priorizando el impacto ético de sus proyectos.
+1. Educación:Es fundamental que las personas entiendan sus derechos sobre el manejo de sus datos y que quienes desarrollan IA trabajen con responsabilidad, priorizando el impacto ético de sus proyectos.
 
-2. **Diseño con ética:**Los sistemas de IA deben construirse desde el principio con valores como la privacidad, la igualdad y la justicia en mente. Por ejemplo, incluir mecanismos que detecten y corrijan sesgos en tiempo real.
+2. Diseño con ética:Los sistemas de IA deben construirse desde el principio con valores como la privacidad, la igualdad y la justicia en mente. Por ejemplo, incluir mecanismos que detecten y corrijan sesgos en tiempo real.
 
-3. **Colaboración interdisciplinaria:**Expertos en tecnología, leyes, ética y sociedad deben trabajar juntos para crear normas y soluciones que consideren todos los aspectos del impacto de la IA.
+3. Colaboración interdisciplinaria:Expertos en tecnología, leyes, ética y sociedad deben trabajar juntos para crear normas y soluciones que consideren todos los aspectos del impacto de la IA.
 
-4. **Supervisiones:**Establecer auditorías independientes para evaluar si los sistemas de IA cumplen con las normas legales y éticas, evitando daños potenciales. 
+4. Supervisiones:Establecer auditorías independientes para evaluar si los sistemas de IA cumplen con las normas legales y éticas, evitando daños potenciales. 
 
-5. **Colaboración global:**Es necesario que los países trabajen en conjunto para desarrollar regulaciones internacionales que aseguren el uso ético de la IA, reduciendo las brechas legales y fomentando la innovación segura.
+5. Colaboración global:Es necesario que los países trabajen en conjunto para desarrollar regulaciones internacionales que aseguren el uso ético de la IA, reduciendo las brechas legales y fomentando la innovación segura.
 
 
 #### **Proactividad** 
