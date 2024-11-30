@@ -14,3 +14,7 @@ El objetivo del foro de debate colaborativo es fomentar un análisis integral de
 2. Examinar regulaciones nacionales e internacionales relevantes para garantizar el cumplimiento normativo.  
 3. Proponer estrategias que promuevan un balance entre la innovación tecnológica y la protección de derechos fundamentales.  
 4. Desarrollar competencias prácticas para el diseño y aplicación de soluciones alineadas con los principios de legalidad y responsabilidad social. 
+
+____________
+
+> Grupo de trabajo Universidad de la Ciudad de Aguascalientes 
